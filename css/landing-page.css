@@ -3,14 +3,14 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
  */
-
+ @import url('https://fonts.googleapis.com/css?family=Droid+Serif');
 body, html {
   width: 100%;
   height: 100%;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Droid Serif', serif;
   font-weight: 700;
 }
 
